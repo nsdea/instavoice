@@ -1,0 +1,7 @@
+mouse
+pipwin
+instapy
+keyboard
+pyautogui
+python-dotenv
+SpeechRecognition
